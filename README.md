@@ -12,29 +12,20 @@
 ---
 ### Imagenes de muestra de como marcha el proyecto:
 
-Ventana principal:
+Vista del Home:
 
->>> ![Primera ventana]( "Primera ventana")
+>>> ![Vista del Home](https://github.com/engcarlosperezmolero/gestion_pedidos_django/blob/master/imagenes_muestra/home_gestion_pedidos.JPG "Primera ventana")
 
-Ventana principal mostrando la selección de componentes, cada vez que se selecciona un componente se imprimen en la UI las propiedas del componente puro:
+Vista de la sección de servicios:
 
->>> ![Segunda ventana]( "Segunda ventana")
+>>> ![Segunda ventana](https://github.com/engcarlosperezmolero/gestion_pedidos_django/blob/master/imagenes_muestra/servicios_gestion_pedidos.JPG "Segunda ventana")
 
-Ventana derivada despues de darle a cualquiera de los botones para calcular la propiedad deseada.
-Esto causa tambien una ventana indicandole algo importante al usuario.
+Vista de la sección de blogs:
 
->>> ![Tercera ventana]( "Tercera ventana")
+>>> ![Tercera ventana](https://github.com/engcarlosperezmolero/gestion_pedidos_django/blob/master/imagenes_muestra/blog_gestion_pedidos.JPG "Tercera ventana")
 
-Ventana derivada mostrando como maneja un error de input del usuario, indicandole que tipo de data puede ingresar:
+Vista del panel del administrador, se han creado hasta ahora 2 apps dentro del proyecto y 3 modelos distintos en total.
 
->>> ![Cuarta ventana]( "Cuarta ventana")
-
-Ventana derivada mostrando una advertencia, recordandole al usuario que debe ingresar todos los campos antes de poder calcular algo:
-
->>> ![Quinta ventana]( "Quinta ventana")
-
-Ventana derivada mostrando la funcion de impresión de resultados luego de realizar la lógica de asignación y calculos del backend:
-
->>> ![Sexta ventana]( "Sexta ventana")
+>>> ![Cuarta ventana](https://github.com/engcarlosperezmolero/gestion_pedidos_django/blob/master/imagenes_muestra/admin_gestion_pedidos.JPG "Cuarta ventana")
 
 ---
