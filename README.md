@@ -1,5 +1,5 @@
-# python_thermodynamics
-### Aplicación para calcular propiedades termodinamicas de un sistema binario en fase vapor-liquido usando enfoque γ-φ
+# gestion_pedidos_django
+### Sitio web para funciones varias de una empresa que gestiona pedidos, desarrollado con Django completamente.
 
 ---
 
