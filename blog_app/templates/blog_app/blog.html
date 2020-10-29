@@ -37,4 +37,14 @@
 
 	{% endfor %}
 
+	<section> <!-- donde van a ir las categorias en el pie de pagina para poder filtrar resultados por categoria, la categoria deberia aparecer una sola vez... -->
+		<div style="width:75%; margin:auto; text-align: center; color: white;">
+			Categorias:
+				{% for c in categorias_unicas %}
+					<a href="{% url 'categoria' c.id %}" style="text-decoration: none; color: yellow;" >{{ c }}</a>
+				{% endfor %}
+		</div>
+
+	</section>
+
 {% endblock %}
